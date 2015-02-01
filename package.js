@@ -1,6 +1,6 @@
 Package.describe({
   name: 'dferber:ti',
-  version: '1.0.0',
+  version: '0.0.1',
   summary: 'Use `ti` instead of writing `Template.instance`.',
   git: 'https://github.com/dferber90/meteor-ti',
   documentation: 'README.md'
